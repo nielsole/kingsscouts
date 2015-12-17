@@ -1,27 +1,23 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-11-14 16:52:07
+title: Fleischfondue bei Sturm und Regen
+date: 2015-11-14T16:52:07.000Z
 categories: jekyll update
 tags: jekyll update
 image: /images/pic01.jpg
+published: true
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## Rauchjurtenessen und Filmabend
+Schlechtes Wetter, wirklich ausdrücklich! Wir sind ja einiges gewohnt - aber jede CSN ist anders. Der Boden ist von dem wochenlangen Regen völlig aufgeweicht. Die Alster historisch überschwemmt. Es ist alles nass. Kurzum die perfekte Gelegenheit für die Pfadranger sich wieder zu einem Haik zu verabreden.
+Ich treffe die Jungs am 23.12. um 11:00 Uhr im Container. Bei uns ist es nie sehr sauber, aber sowas habe ich schon länger nicht mehr gesehen. Jeder steht auf einer kleinen Insel in dem Matschmeer welches einmal unser Containerboden war. Umringt von mehr oder weniger nassen Sachen. Der Versuch das Chaos zu beherrschen - na wenigstens zu sortieren - er scheitert. Es scheint ein gelungener Haik geworden zu sein. 
 
-Jekyll also offers powerful support for code snippets:
+Ab 15:00 Uhr beginnt der Aufbau für die CSN 2014. Es wird bei endlosem Regen ein Kaminzugtunnel gegraben, eine Feuerstelle darüber errichtet und eine Jurte platziert. Wind und Wassermassen machen dem Jurtendach statisch zu schaffen und es dauert einige Zeit bis das Dach zufriedenstellend abgespannt ist. Drinne prasselt schon ein recht großes Feuer fur das wir unsere guten, jahrelang abgelagerten Walnussholzvorräte hergeben. Bei der Wärme steigt überall weißer Wasserdampf auf. Der Zeltboden wird großzügig mit BW-Ponchos und Gewebeplanen ausgelegt, so dass das Zelt nur noch ohne Schuhe betreten werden darf. Drei auf den Boden gelegte Tischplatten bieten uns Platz zum essen. Auf jedem Tisch steht ein Trangiakocher mit heißem Fett, daneben Teller mit Fleisch, Fleisch, etwas Gemüse und Fleisch. Während es draußen weiter windet und regnet sitzen wir zu zwölft im Zelt und halten unsere bestückten Fonduespieße in das brodelnde Fett. Das trockene Holz auf dem Kaminzug brennt heiß und nahezu rauchfrei. 
+![benni-csn.jpg]({{site.baseurl}}/_posts/benni-csn.jpg)
+Nach den Abwasch- und Aufräumarbeiten liegen wir in unseren Schlafsäcken und schauen mittels Beamer und Leinwand in der Jurte eine DVD. Als der Film zu Ende und das Feuer heruntergebrannt ist, legen wir uns schlafen. Inzwischen ist aus der rauchfreinen Jurte allerdings eine Räucherbude geworden. Trotz Rauch, Wind uns Regen überstehen jedoch alle die Nacht. Das Zelt wird nass und stinkend abgebaut uns später an geeigneter Stelle zum trocken aufgehängt. Ein Brötchenfrühstück rundet die CSN für dieses Jahr ab. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Wir bedanken uns bei Malte und Matthias, die im Vergleich am allermeisten Zeit investiert haben, um diese CSN so zu realisieren. 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+Benjamin 
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+Folgende Personen nahmen Teil: Nick B., Johannes F., Benjamin S., Johannes S., Jonas L., Marvin D., Matthias M., Niels-Ole K., Simon W., Malte Z., Frede H., Caspar F. ![]({{site.baseurl}}/)
