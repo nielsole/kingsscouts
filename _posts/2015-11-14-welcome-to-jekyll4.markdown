@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fleischfondue bei Sturm und Regen
-date: {}
+date: 2015-11-14T16:52:07.000Z
 categories: jekyll update
 tags: jekyll update
 image: /images/pic01.jpg
